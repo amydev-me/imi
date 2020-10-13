@@ -1,0 +1,38 @@
+.flex-c-m {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: flex;
+	justify-content: center;
+	-ms-align-items: center;
+	align-items: center;
+}
+
+.tit6 {
+	font-family: Poppins;
+	font-weight: 700;
+	font-size: 50px;
+	line-height: 1.2;
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 6px;
+    word-spacing: 6px;
+    text-indent: 1px;
+}
+
+.heading_content_container{
+    max-width: 850px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.heading_content_container h1 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.15em;
+    margin: 0;
+    padding: 0;
+    letter-spacing: 1px;
+    text-indent : 1px;
+}
